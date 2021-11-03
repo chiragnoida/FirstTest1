@@ -1,1 +1,2 @@
 FIrst line it is
+new char
